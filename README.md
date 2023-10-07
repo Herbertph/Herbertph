@@ -1,12 +1,23 @@
+
+<div align="center">
+
+<img src="https://i.postimg.cc/N9nYJtK6/sua-imagem.jpg" alt="Descrição da imagem" style="border: 3px solid black;">
+
+  <a href = "mailto:herbert.parasio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/herbert-cunha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 ## Hello, I am Herbert Parasio, and I will graduate in June 2024!
 
+</div>
+
+
 <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herbertph&layout=compact&hide_border=false&title_color=000&text_color=000&bg_color=3333" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herbertph&layout=compact&hide_border=false&title_color=000&text_color=000&bg_color=888888" />
 </div>
 
 ##
 
-<div style="display: inline_block">Linguagens e Frameworks:
+<div style="display: inline_block" align="center">Linguagens e Frameworks:
 <br><br>
   
   <img align="center" alt="Herbert-cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -25,7 +36,7 @@
 
   ##
 
-<div style="display: inline_block">Studying now!
+<div style="display: inline_block" align="center">Studying now!
 <br><br> 
   <img align="center" alt=""Herbert-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt=""Herbert-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -37,10 +48,4 @@
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Herbertph&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 
-##
 
-<div> 
-  <a href = "mailto:herbert.parasio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/herbert-cunha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
