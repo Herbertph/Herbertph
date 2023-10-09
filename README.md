@@ -17,7 +17,7 @@
 
 ##
 
-<div style="display: inline_block" align="center">Linguagens e Frameworks:
+<div style="display: inline_block" align="center">SkillSet:
 <br><br>
   
   <img align="center" alt="Herbert-cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
